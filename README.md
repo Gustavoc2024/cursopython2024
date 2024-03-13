@@ -1,2 +1,2 @@
-# cursopython2024
-Repositorio curso python 2024
+# cursopythoninicial2024
+Repositorio curso python inicial 2024
